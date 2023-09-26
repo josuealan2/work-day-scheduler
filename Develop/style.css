@@ -57,3 +57,15 @@ textarea {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
 }
+
+h1 {
+  text-align: center;
+}
+
+.lead {
+  text-align: center;
+}
+
+#currentDate {
+  text-align: center;
+}
